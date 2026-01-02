@@ -17,6 +17,8 @@ Additional features include:
   - View the status of any user (Online / Offline)
   - View the current game mode of any user
   - View the Discord Display Name of any user
+  - View the tank of any user
+  - View the level tank of any user
 
 ---
 
