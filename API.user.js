@@ -30,5 +30,3 @@ function getTankImage(tankName) {
     for(const[ID,TankName] of Object.entries(Tank)) {if (TankName===tankName) {TankID=Number(ID); return `${URL}${TankID}.png`;}}
     return `${URL}${TankID}.png`;
 }
-	} catch (e) {}
-}
