@@ -6,7 +6,7 @@
 
 Diep.io Chat Script
 
-This project is developed by [Your Username], a developer specialized in Diep.io.
+This project is developed by @DiepDeveloper, a developer specialized in Diep.io.
 It is a script that primarily allows you to communicate with other players in the game. 
 
 Additional features include:
