@@ -5,9 +5,9 @@
 // @grant        none
 // ==/UserScript==
 
-function helloAPI() {
-  alert('API loaded!');
-}
+window.helloAPI = function() {
+    alert('API loaded!');
+};
 
 Tank = {
     0: "Tank", 1: "Twin", 2: "Triplet", 3: "Triple Shot",
