@@ -2,6 +2,8 @@
 
 # Contact : **[Discord](https://discord.com/users/723144097015136296)**
 
+---
+
 Diep.io Chat Script
 
 This project is developed by @DiepDeveloper, a developer specialized in Diep.io.
