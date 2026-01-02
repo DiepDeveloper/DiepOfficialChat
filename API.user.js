@@ -5,6 +5,8 @@
 // @grant        none
 // ==/UserScript==
 
+console.log('API.user.js chargé !');
+
 Tank = {
     0: "Tank", 1: "Twin", 2: "Triplet", 3: "Triple Shot",
     4: "Quad Tank", 5: "Octo Tank", 6: "Sniper", 7: "Machine Gun",
@@ -30,5 +32,3 @@ function getTankImage(tankName) {
     for(const[ID,TankName] of Object.entries(Tank)) {if (TankName===tankName) {TankID=Number(ID); return `${URL}${TankID}.png`;}}
     return `${URL}${TankID}.png`;
 }
-
-console.log('API chargé !');
